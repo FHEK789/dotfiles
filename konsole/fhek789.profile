@@ -1,7 +1,7 @@
 [Appearance]
 AntiAliasFonts=true
 ColorScheme=Dracula
-Font=FiraCode Nerd Font,10,-1,5,50,0,0,0,0,0
+Font=JetBrains Mono Medium,10,-1,5,57,0,0,0,0,0,Regular
 LineSpacing=1
 UseFontLineChararacters=false
 
@@ -12,7 +12,7 @@ CursorShape=1
 Command=/bin/zsh
 Name=fhek789
 Parent=FALLBACK/
-TerminalCenter=true
+TerminalCenter=false
 TerminalColumns=145
 TerminalMargin=1
 TerminalRows=29
