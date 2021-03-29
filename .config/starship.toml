@@ -6,6 +6,7 @@ show_always = true
 
 [directory]
 read_only = ""
+truncation_length = 8
 
 [rust]
 symbol = "🦀 "
