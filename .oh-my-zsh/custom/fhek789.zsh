@@ -1,5 +1,3 @@
-eval "$(starship init zsh)"
-
 export EDITOR="/usr/bin/nvim"
 
 chpwd() {
