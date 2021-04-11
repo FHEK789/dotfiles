@@ -1,0 +1,37 @@
+{
+    "window.titleBarStyle": "custom",
+
+    "workbench.colorTheme": "Omni",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "newUntitledFile",
+
+    "telemetry.enableTelemetry": false,
+
+    "explorer.compactFolders": false,
+    "explorer.confirmDelete": false,
+
+    "editor.tabSize": 4,
+    "editor.fontSize": 14,
+    "editor.lineHeight": 20,
+    "editor.fontFamily": "JetBrainsMono Nerd Font Mono",
+    "editor.fontLigatures": true,
+    "editor.smoothScrolling": true,
+    "editor.renderLineHighlight": "gutter",
+    "editor.formatOnSave": false,
+    "editor.formatOnType": false,
+    "editor.renderWhitespace": "none",
+    "editor.minimap.enabled": false,
+    "editor.rulers": [
+        80,
+        120
+    ],
+
+    "terminal.integrated.shell.linux": "/bin/zsh",
+    "terminal.integrated.fontSize": 14,
+    
+    "cmake.configureOnOpen": false,
+    "C_Cpp.enhancedColorization": "Enabled",
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+}
